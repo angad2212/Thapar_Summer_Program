@@ -1,4 +1,4 @@
-# 🎓 Thapar Summer Program — *Machine Learning & Deep Learning*
+# 🎓 Thapar Summer Program 2023
 
 Welcome to the official repository for the **Thapar Institute of Engineering & Technology’s Summer Program** focused on **Machine Learning, Deep Learning, and Full-Stack Web Development**.
 
