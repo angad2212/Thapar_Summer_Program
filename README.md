@@ -6,21 +6,21 @@ This comprehensive bootcamp is designed to empower students with real-world indu
 
 ---
 
-## 📘 Program Overview
+## Program Overview
 
 Over the span of this immersive program, participants gain a strong foundation and hands-on experience across:
 
-- 🐍 **Python programming and problem-solving**
-- 🤖 **Core Machine Learning and Optimization techniques**
-- 🌐 **Full-Stack Web Development (MERN + Django + Next.js)**
-- 🧠 **Deep Learning for Computer Vision and NLP**
-- 📊 **Time Series Analysis and EDA**
-- ☁️ **IoT & Cloud Integration**
-- 🎨 **Generative AI**
+- **Python programming and problem-solving**
+- **Core Machine Learning and Optimization techniques**
+- **Full-Stack Web Development (MERN + Django + Next.js)**
+- **Deep Learning for Computer Vision and NLP**
+- **Time Series Analysis and EDA**
+- **IoT & Cloud Integration**
+- **Generative AI**
 
 ---
 
-## 🗂️ Curriculum Breakdown
+## Curriculum Breakdown
 
 ### 🧱 1. Foundation Module: Python, Data Handling & Problem Solving
 > Dive into programming logic and data manipulation.
